@@ -1,17 +1,13 @@
-### [Foobar](https://foobar.com)
+### [aerc](https://aerc-mail.org/)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Download using the [GitHub .zip download](https://github.com/dracula/aerc/archive/master.zip) option and unzip them.
 
-    git clone https://github.com/dracula/foobar.git
+You just have to import `dracula` in `~/.config/aerc/dracula`
 
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+Edit `~/.config/aerc/aerc.conf` and set:
+```
+stylesets-dirs=~/.config/aerc/
+styleset-name=dracula
+```
