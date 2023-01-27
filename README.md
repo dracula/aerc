@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [aerc](https://aerc-mail.org/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [aerc](https://aerc-mail.org/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/aerc](https://draculatheme.com/aerc).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![staal0](https://github.com/staal0.png?size=100)](https://github.com/staal0) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [staal0](https://github.com/staal0)                                               |
 
 ## Community
 
