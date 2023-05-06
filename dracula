@@ -46,6 +46,8 @@ msglist_marked.fg=#f1fa8c
 msglist_marked.selected.fg=#f1fa8c
 msglist_marked.selected.bg=#44475a
 msglist_deleted.fg=#ff5555
+msglist_result.fg=#8be9fd
+msglist_result.selected.bg=#44475a
 
 msglist_deleted.selected.reverse=toggle
 
